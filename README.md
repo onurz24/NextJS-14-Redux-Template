@@ -3,6 +3,7 @@
 - Using App Router,TypeScript, TailwindCSS and SCSS.
 
 **Start Application :**
+- npm i
 - npm run dev
   
 **Deployment :**
